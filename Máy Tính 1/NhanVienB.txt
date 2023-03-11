@@ -1,1 +1,3 @@
-Nhan vien B
+noi dung Nhan vien B
+
+tao nhanh Nhan vien B
